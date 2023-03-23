@@ -1,0 +1,38 @@
+.new-Post {
+  width: 50%;
+  background: #b9e0ff;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 5px auto;
+  border-radius: 5px;
+  padding: 32px 0;
+  box-shadow: 0 0 25px 5px rgba(0, 0, 0, 0.2);
+}
+textarea {
+  font: inherit;
+  width: 45%;
+}
+.myInput {
+  width: 45%;
+  height: 2rem;
+  direction: rtl;
+  font: inherit;
+}
+.myoption {
+  width: 45%;
+
+  font-family: inherit;
+}
+.submit {
+  width: 9rem;
+
+  background: #6c4ab6;
+  outline: none;
+  border: none;
+  border-radius: 3px;
+  color: #fff;
+  font: inherit;
+  padding: 10px 5px;
+  margin: 1rem;
+}

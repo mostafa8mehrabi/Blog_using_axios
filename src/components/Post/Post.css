@@ -1,0 +1,16 @@
+.post {
+  background: #b9e0ff;
+  border: 1px solid #9c7dfa;
+  width: 250px;
+  height: 250px;
+  padding: 16px;
+  text-align: center;
+  border-radius: 3px;
+  margin: 10px;
+  box-sizing: border-box;
+  cursor: pointer;
+}
+.author {
+  margin: 25px 0px;
+  font-weight: bold;
+}
